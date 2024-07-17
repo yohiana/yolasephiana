@@ -1,0 +1,4 @@
+MenuCategory,MenuItem,Ingredients,Price,Profitability
+Desserts,Fruit Tart,"['Chocolate', 'Butter', 'Sugar', 'Eggs']",19.94,High
+Beverages,Lemonade,['confidential'],3.72,Medium
+Desserts,Chocolate Lava Cake,"['Chocolate', 'Butter', 'Sugar', 'Eggs']",16.28,Low

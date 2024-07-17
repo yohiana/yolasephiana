@@ -1,0 +1,4 @@
+import joblib
+
+# Simpan model terbaik
+joblib.dump(best_xgb_model, 'model.pkl')
